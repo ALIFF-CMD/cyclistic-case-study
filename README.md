@@ -13,4 +13,5 @@ Skills: Data wrangling, data cleaning, aggregation, visualization, storytelling
 
 ## 🎥 Final Presentation Slides
 
-[Click here to view the Canva presentation (hosted on Google Drive)]([https://drive.google.com/file/d/your-pdf-link-here/view](https://drive.google.com/file/d/1XJ_SOKzGRUY8EdIj74YVXL8-6oWLz62f/view?usp=sharing))
+[Click to view the presentation](https://drive.google.com/file/d/your-file-id/view?usp=sharing](https://drive.google.com/file/d/1XJ_SOKzGRUY8EdIj74YVXL8-6oWLz62f/view?usp=sharing)
+
