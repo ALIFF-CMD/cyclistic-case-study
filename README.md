@@ -13,5 +13,5 @@ Skills: Data wrangling, data cleaning, aggregation, visualization, storytelling
 
 ## 🎥 Final Presentation Slides
 
-[Click to view the presentation](https://drive.google.com/file/d/your-file-id/view?usp=sharing](https://drive.google.com/file/d/1XJ_SOKzGRUY8EdIj74YVXL8-6oWLz62f/view?usp=sharing)
+[Click to view the presentation][(https://drive.google.com/file/d/your-file-id/view?usp=sharing](https://drive.google.com/file/d/1XJ_SOKzGRUY8EdIj74YVXL8-6oWLz62f/view?usp=sharing)](https://drive.google.com/file/d/1XJ_SOKzGRUY8EdIj74YVXL8-6oWLz62f/view?usp=sharing)
 
