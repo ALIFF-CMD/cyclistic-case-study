@@ -11,22 +11,6 @@ Cyclistic’s director of marketing wants to increase the number of annual membe
 Tools: RStudio, ggplot2, Excel, Canva
 Skills: Data wrangling, data cleaning, aggregation, visualization, storytelling
 
-🧹 4. Data Cleaning Summary
-I cleaned and transformed two datasets (Divvy Q1 2019 & Q1 2020). This involved:
+## 🎥 Final Presentation Slides
 
-• Removing missing and invalid entries
-• Creating new variables: ride_length, day_of_week, hour
-• Standardizing user types
-• Filtering rides with negative or unrealistic durations
-
-📈 5. Key Insights
-Include bullet points or visuals:
-
-Casual riders take longer trips on weekends
-Members ride more during weekdays and commute hours
-Ride length and frequency patterns differ significantly
-
-✅ 6. Recommendations
-• Promote memberships during weekend casual rides
-• Offer limited-time upgrade promos for frequent casual riders
-• Target specific locations and times with personalized ads
+[Click here to view the Canva presentation (hosted on Google Drive)]([https://drive.google.com/file/d/your-pdf-link-here/view](https://drive.google.com/file/d/1XJ_SOKzGRUY8EdIj74YVXL8-6oWLz62f/view?usp=sharing))
